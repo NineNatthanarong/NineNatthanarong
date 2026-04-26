@@ -1,11 +1,11 @@
 <h1 align="center">Natthanarong Tiangjit</h1>
 
 <p align="center">
-  <strong>AI Software Developer • Full-Stack Builder • Robotics Engineer</strong>
+  <strong>AI Software Developer · Full-Stack Builder · Robotics Engineer</strong>
 </p>
 
 <p align="center">
-  Bangkok, Thailand · AI Engineering & Data Science @ Bangkok University · Tech Talent Scholarship (100%)
+  Building useful systems across AI, software, and automation.
 </p>
 
 <p align="center">
@@ -18,105 +18,130 @@
 
 ---
 
-## Profile
+> **Signal over noise.**  
+> I’d rather show work, range, and impact than depend on fragile dashboard images.
 
-I build practical products at the intersection of **AI**, **software engineering**, and **automation**.
+## 01 — Profile
 
-My work spans **RAG systems**, **full-stack web applications**, and **robotics / PLC-based engineering projects**. I care about shipping work that is technically strong, user-focused, and deployable in real environments.
+```yaml
+name: Natthanarong Tiangjit
+nickname: Nine
+location: Bangkok, Thailand
+education: AI Engineering & Data Science @ Bangkok University
+scholarship: Tech Talent Scholarship (100%)
+current_role: Head of Operations @ BU ROBOTSTUDIO
+focus:
+  - Applied AI
+  - Full-stack product development
+  - Robotics and industrial automation
+availability:
+  - Full-time
+  - Internship
+  - Freelance
+  - Remote collaboration
+```
 
-Currently:
-- **Head of Operations, BU ROBOTSTUDIO**
-- **Third-year AI Engineering & Data Science student**
-- **Open to full-time, internship, freelance, and remote opportunities**
+I build practical products at the intersection of **AI**, **software engineering**, and **real-world systems**.
 
-## Value I Bring
+My work ranges from **RAG chatbots** and **web applications** to **PLC-based automation**, **computer vision**, and **robotics projects** designed for actual use, not just prototypes.
+
+## 02 — Build Space
+
+```mermaid
+flowchart LR
+    A[AI Systems] --> B[Software Products]
+    B --> C[Automation & Robotics]
+    C --> A
+```
 
 <table>
   <tr>
     <td width="33%">
-      <strong>AI Product Thinking</strong><br/>
-      I design and build AI solutions that solve real user and business problems, not just demos.
+      <strong>AI</strong><br/>
+      LLM apps, RAG systems, NLP, computer vision, object detection, and model deployment.
     </td>
     <td width="33%">
-      <strong>Full-Stack Execution</strong><br/>
-      I can move from idea to interface to backend to deployment with a strong bias toward delivery.
+      <strong>Software</strong><br/>
+      Full-stack applications built with clean UX, solid backend logic, and production-minded execution.
     </td>
     <td width="33%">
-      <strong>Engineering Range</strong><br/>
-      I work across software, data, robotics, and industrial automation with equal curiosity and discipline.
+      <strong>Automation</strong><br/>
+      Robotics, PLC workflows, and engineering projects that connect software to the physical world.
     </td>
   </tr>
 </table>
 
-## Selected Highlights
+## 03 — Selected Impact
 
-- **Outstanding Innovation Award Winner** — **Super AI Engineer Season 5**
-- **Head of Operations @ BU ROBOTSTUDIO**, helping lead **50+ members**
-- Built **15+ projects** across AI, web, and automation
-- Designed and built **7 robots**
-- Joined the **Learning Express Program with Singapore Polytechnic** for **3 consecutive years**
-- Finalist / selected participant in **PLC Competition Thailand**, **LearnLab Innovation**, **PTT Gaskathon**, and **Mitsubishi PLC Competition 2026**
+| Area | Highlight |
+| --- | --- |
+| **Award** | **Outstanding Innovation Award** — **Super AI Engineer Season 5** |
+| **Leadership** | **Head of Operations @ BU ROBOTSTUDIO**, helping lead **50+ members** |
+| **Build Volume** | Built **15+ projects** across AI, web, and automation |
+| **Engineering** | Designed and built **7 robots** |
+| **International Program** | Joined the **Learning Express Program with Singapore Polytechnic** for **3 consecutive years** |
+| **Competitions** | Finalist / selected participant in **PLC Competition Thailand**, **LearnLab Innovation**, **PTT Gaskathon**, and **Mitsubishi PLC Competition 2026** |
 
-## Relevant Experience
+## 04 — Featured Work
 
-### BU ROBOTSTUDIO
-**Head of Operations**
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Super AI Engineer SS5</strong><br/>
+      Built an award-winning <strong>RAG chatbot</strong>, received the <strong>Outstanding Innovation Award</strong>, and later contributed in a <strong>CAIO</strong> role for business chatbot solutions.
+    </td>
+    <td width="50%">
+      <strong>AI Smart Parking System</strong><br/>
+      Finalist project for <strong>PLC Competition Thailand 2024</strong>, combining <strong>PLC programming</strong> with <strong>AI-powered computer vision</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>HyperGas AI</strong><br/>
+      Built an <strong>AI safety training system</strong> for gas station workflows, aimed at reducing human error and improving operational readiness.
+    </td>
+    <td width="50%">
+      <strong>Indie & Creative Builds</strong><br/>
+      Created useful tools and experimental products including <strong>functions.codes</strong>, AI/AR concept projects, and self-driven end-to-end AI builds.
+    </td>
+  </tr>
+</table>
 
-- Help lead robotics activities, operations, and community initiatives
-- Supported workshops, events, and team coordination for a growing technical community
-- Progressed through multiple roles from **Staff → Operation Lead → Head of Operations**
+## 05 — Experience Snapshot
 
-### Super AI Engineer Season 5
-**Award-Winning Builder**
+### BU ROBOTSTUDIO — Head of Operations
+- Help lead operations, activities, workshops, and technical community initiatives
+- Worked across roles from **Staff → Operation Lead → Head of Operations**
+- Support a growing robotics-focused community with execution and coordination
 
-- Built an **award-winning RAG chatbot**
-- Received the **Outstanding Innovation Award**
-- Later contributed in a **CAIO** role supporting business chatbot solutions
+### AI / Product Builder
+- Build systems that combine **AI capability**, **usable interfaces**, and **real deployment value**
+- Comfortable moving from idea to product architecture to implementation
 
-### AI Smart Parking System
-**PLC + Computer Vision Project**
+### Robotics / Automation Projects
+- Work on practical engineering projects involving **PLC**, **ABB robotics**, and software-hardware integration
 
-- Finalist in **PLC Competition Thailand 2024**
-- Combined **PLC programming** with **AI-powered computer vision**
-- Built for real-world industrial / smart automation use cases
+## 06 — Tech Footprint
 
-### HyperGas AI
-**AI Safety Training System**
+**AI / Data**  
+`Python` `LLM Applications` `RAG` `NLP` `Computer Vision` `Object Detection` `Model Deployment`
 
-- Built an AI-powered training solution for gas station safety workflows
-- Focused on reducing human error and improving operational learning
+**Software Engineering**  
+`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Django` `Tailwind CSS`
 
-## Core Strengths
+**Automation / Robotics**  
+`PLC Programming` `ABB Robotics` `Embedded Workflows` `Applied Engineering`
 
-**AI / Data**
-<br />
-LLM applications · RAG · NLP · Computer Vision · Object Detection · Model Deployment
+## 07 — What I’m Looking For
 
-**Software Engineering**
-<br />
-Python · TypeScript · JavaScript · React · Next.js · Node.js · Django · Tailwind CSS
+I’m especially interested in opportunities involving:
 
-**Robotics / Automation**
-<br />
-PLC Programming · ABB Robotics · Embedded / real-world engineering workflows
+- **Applied AI**
+- **Software engineering for intelligent products**
+- **Automation, robotics, or industrial technology**
+- **Teams that value ownership, speed, clarity, and execution**
 
-## What I’m Looking For
-
-I’m especially interested in roles where I can contribute to:
-
-- **AI product development**
-- **Software engineering for intelligent systems**
-- **Automation, robotics, or applied engineering**
-- **Teams that value ownership, speed, and thoughtful execution**
-
-## GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NineNatthanarong&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=NineNatthanarong&theme=default&hide_border=true" alt="GitHub streak" />
-</p>
-
-## Contact
+## 08 — Contact
 
 - Portfolio: **[nine.codes](https://nine.codes)**
 - LinkedIn: **[natthanarong-tiangjit](https://www.linkedin.com/in/natthanarong-tiangjit)**
@@ -125,5 +150,5 @@ I’m especially interested in roles where I can contribute to:
 ---
 
 <p align="center">
-  <em>Building useful technology with clarity, depth, and execution.</em>
+  <em>Building useful technology with depth, clarity, and execution.</em>
 </p>
