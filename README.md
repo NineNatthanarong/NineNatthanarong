@@ -1,149 +1,134 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,40:0f1b2d,75:3B82F6,100:22D3EE&text=Natthanarong%20Tiangjit%20%C2%B7%20Nine&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=AI%20Software%20Developer%20%C2%B7%20Full-Stack%20Builder%20%C2%B7%20Robotics%20Engineer&descAlignY=58&animation=twinkling" alt="Mission Control header" />
+  <img src="assets/hero.svg" alt="Natthanarong Tiangjit — AI systems, full-stack products, and machines that move" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=920&lines=Shipping+AI+systems+with+real-world+utility;Building+full-stack+products+end-to-end;Engineering+robotics+%26+automation+that+move;Head+of+Operations+%40+BU+ROBOTSTUDIO" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=1000&color=FF2E4C&center=true&vCenter=true&width=760&lines=AI+systems+that+reach+production.;Full-stack+products%2C+end+to+end.;Robots+that+do+real+work." alt="" />
 </p>
 
 <p align="center">
-  <a href="https://nine.codes"><img src="https://img.shields.io/badge/PORTFOLIO-nine.codes-0B1220?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
-  <a href="mailto:natthanarong.tian@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET%27S%20TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/natthanarong-tiangjit"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://nine.codes"><img src="https://img.shields.io/badge/WORK-nine.codes-FF2E4C?style=for-the-badge&labelColor=08070A" alt="Portfolio" /></a>
+  <a href="mailto:natthanarong.tian@gmail.com"><img src="https://img.shields.io/badge/EMAIL-say%20hello-FF2E4C?style=for-the-badge&labelColor=08070A" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/natthanarong-tiangjit"><img src="https://img.shields.io/badge/LINKEDIN-connect-FF2E4C?style=for-the-badge&labelColor=08070A" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-TRAINEE%20INTERNSHIP-22D3EE?style=flat-square&labelColor=0B1220" alt="Trainee Internship" />
-  <img src="https://img.shields.io/badge/BASE-BANGKOK%2C%20THAILAND-3B82F6?style=flat-square&labelColor=0B1220" alt="Bangkok" />
-  <img src="https://img.shields.io/badge/SCHOLARSHIP-TECH%20TALENT%20100%25-F59E0B?style=flat-square&labelColor=0B1220" alt="Scholarship" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%C2%B7%20SOFTWARE%20%C2%B7%20AUTOMATION-E2E8F0?style=flat-square&labelColor=0B1220" alt="Focus" />
+  <img src="https://img.shields.io/badge/Bangkok-08070A?style=flat-square&labelColor=08070A&color=1a1114" alt="Bangkok" />
+  <img src="https://img.shields.io/badge/Trainee%20internship-08070A?style=flat-square&labelColor=08070A&color=1a1114" alt="Trainee internship" />
+  <img src="https://img.shields.io/badge/Tech%20Talent%20100%25%20scholarship-08070A?style=flat-square&labelColor=08070A&color=1a1114" alt="Scholarship" />
+  <img src="https://img.shields.io/badge/AI%20%C2%B7%20Software%20%C2%B7%20Robotics-08070A?style=flat-square&labelColor=08070A&color=1a1114" alt="Focus" />
 </p>
 
----
+<br/>
 
-> `MISSION CONTROL ONLINE`  
-> I build useful things where **AI**, **software**, and **physical systems** meet — and ship them.
+<h3 align="center">I build where AI, software, and machines meet.<br/><sub>Then I ship it.</sub></h3>
 
-## `TEL://CONTRIBUTIONS`
+<br/>
 
-Live telemetry from the build floor.
+## Signal
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NineNatthanarong&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=F59E0B&text_color=E2E8F0" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=NineNatthanarong&hide_border=true&background=0B1220&stroke=3B82F6&ring=22D3EE&fire=F59E0B&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
-</p>
+Numbers, not adjectives.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NineNatthanarong&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E2E8F0&langs_count=8" alt="Top languages" />
+  <img src="assets/pulse.svg" alt="643 contributions in the last 12 months" width="100%" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NineNatthanarong/NineNatthanarong/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NineNatthanarong/NineNatthanarong/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/NineNatthanarong/NineNatthanarong/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="assets/split.svg" alt="Commits by language and most active repositories" width="100%" />
 </p>
 
 <p align="center">
-  <em>642+ contributions this year · shipping across AI, product, and automation.</em>
+  <img src="https://raw.githubusercontent.com/NineNatthanarong/NineNatthanarong/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" width="100%" />
 </p>
 
-## `BAY://WORK_STREAMS`
+## Focus
 
-Three bays. One builder.
+Three disciplines. One builder.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>◈ AI SYSTEMS</strong><br/><br/>
-      RAG pipelines, LLM apps, NLP, computer vision, and model deployment — from notebook to something people can actually use.<br/><br/>
-      <code>Super AI SS5</code> · <a href="https://github.com/NineNatthanarong/NRAG">NRAG</a>
+      <h4>AI Systems</h4>
+      RAG pipelines, LLM apps, computer vision.<br/>
+      From notebook to production.
+      <br/><br/>
+      <a href="https://github.com/NineNatthanarong/NRAG"><img src="https://img.shields.io/badge/NRAG-FF2E4C?style=flat-square&labelColor=08070A" alt="NRAG" /></a>
     </td>
     <td width="33%" valign="top">
-      <strong>◈ FULL-STACK PRODUCTS</strong><br/><br/>
-      Interfaces, APIs, and tools with product thinking — clean UX, solid backends, shipped end-to-end.<br/><br/>
-      <a href="https://nine.codes">nine.codes</a> · <a href="https://github.com/NineNatthanarong/functions-codes">functions.codes</a> · 10+ sites
+      <h4>Full-Stack</h4>
+      Interfaces, APIs, and tools.<br/>
+      Designed and shipped end to end.
+      <br/><br/>
+      <a href="https://nine.codes"><img src="https://img.shields.io/badge/nine.codes-FF2E4C?style=flat-square&labelColor=08070A" alt="nine.codes" /></a>
     </td>
     <td width="33%" valign="top">
-      <strong>◈ AUTOMATION & ROBOTICS</strong><br/><br/>
-      PLC, ABB robotics, and CV-in-the-loop systems that connect code to machines on the floor.<br/><br/>
-      <code>BU ROBOTSTUDIO</code> · Smart Parking · 7 robots built
+      <h4>Robotics</h4>
+      PLC, ABB, vision in the loop.<br/>
+      Code that moves metal.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/7%20robots%20built-FF2E4C?style=flat-square&labelColor=08070A" alt="7 robots built" />
     </td>
   </tr>
 </table>
 
-```mermaid
-flowchart LR
-    AI[AI Systems] --> Product[Full-Stack Products]
-    Product --> Auto[Automation and Robotics]
-    Auto --> Impact[Real-World Impact]
-    Impact --> AI
-```
+## Work
 
-## `BUILD://FEATURED`
+A few things worth showing.
 
-| Build | What shipped |
-| --- | --- |
-| **[Super AI Engineer SS5](https://github.com/NineNatthanarong/NRAG)** | Award-winning **RAG chatbot** — Outstanding Innovation Award; later **CAIO** for business chatbot solutions |
-| **AI Smart Parking** | **PLC Competition Thailand** finalist — PLC programming + AI computer vision for parking ops |
-| **HyperGas AI** | AI safety-training system for gas stations — fewer human errors, sharper operational readiness |
-| **[functions.codes](https://github.com/NineNatthanarong/functions-codes)** | Ad-free utility platform (incl. PDF tools) — Next.js, clean UI, zero noise |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Super AI Engineer SS5</h4>
+      An enterprise RAG chatbot, built and shipped.<br/>
+      Outstanding Innovation Award. Later CAIO for chatbot solutions.
+      <br/><br/>
+      <a href="https://github.com/NineNatthanarong/NRAG">Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>AI Smart Parking</h4>
+      Vision and control, working together.<br/>
+      Finalist, PLC Competition Thailand.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>HyperGas AI</h4>
+      Safety training for gas stations.<br/>
+      Fewer errors. Better readiness.
+    </td>
+    <td width="50%" valign="top">
+      <h4>functions.codes</h4>
+      Free tools, no ads.<br/>
+      Just the thing you came for.
+      <br/><br/>
+      <a href="https://github.com/NineNatthanarong/functions-codes">Repository →</a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/NineNatthanarong/NRAG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NineNatthanarong&repo=NRAG&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E2E8F0&icon_color=F59E0B" alt="NRAG" /></a>
-  <a href="https://github.com/NineNatthanarong/functions-codes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NineNatthanarong&repo=functions-codes&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E2E8F0&icon_color=F59E0B" alt="functions-codes" /></a>
-  <a href="https://github.com/NineNatthanarong/exama"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NineNatthanarong&repo=exama&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E2E8F0&icon_color=F59E0B" alt="exama" /></a>
-</p>
+## Proof
 
-## `PROOF://MISSION_LOG`
+| | |
+| :-- | :-- |
+| **Award** | Outstanding Innovation Award — Super AI Engineer Season 5 |
+| **Leadership** | Head of Operations, BU ROBOTSTUDIO — 50+ members |
+| **Finals** | PLC Thailand · LearnLab · PTT Gaskathon · Mitsubishi PLC 2026 · ABB Top 8 |
+| **Study** | B.Eng in AI Engineering, Bangkok University — full scholarship |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/15%2B-PROJECTS%20BUILT-22D3EE?style=for-the-badge&labelColor=0B1220" alt="15+ Projects" />
-  <img src="https://img.shields.io/badge/7-ROBOTS%20BUILT-3B82F6?style=for-the-badge&labelColor=0B1220" alt="7 Robots" />
-  <img src="https://img.shields.io/badge/50%2B-MEMBERS%20LED-F59E0B?style=for-the-badge&labelColor=0B1220" alt="50+ Members Led" />
-  <img src="https://img.shields.io/badge/3%20YEARS-SINGAPORE%20POLYTECHNIC-E2E8F0?style=for-the-badge&labelColor=0B1220" alt="Singapore Polytechnic" />
-</p>
+## Toolkit
 
-| Signal | Proof |
-| --- | --- |
-| **Award** | **Outstanding Innovation Award** — Super AI Engineer Season 5 (AiAT) |
-| **Leadership** | **Head of Operations @ BU ROBOTSTUDIO** — 50+ members; Staff → Ops Lead → Head |
-| **Range** | AI · full-stack software · robotics / industrial automation |
-| **Track record** | Finalist / selected: PLC Competition Thailand · LearnLab Innovation · PTT Gaskathon · Mitsubishi PLC 2026 · ABB Automation Top 8 |
+**Intelligence** — `Python` `LLM` `RAG` `NLP` `Computer Vision` `Model Deployment`
 
-```text
-2026  → Mitsubishi PLC Competition 2026 · Trainee Internship
-2025  → Head of Operations @ BU ROBOTSTUDIO
-2025  → Outstanding Innovation Award @ Super AI Engineer SS5
-2024  → Finalist: PLC Thailand · LearnLab · PTT Gaskathon
-2024  → Learning Express × Singapore Polytechnic
-NOW   → Building AI, software, and automation with real utility
-```
+**Product** — `TypeScript` `React` `Next.js` `Node.js` `Django` `Docker` `CI/CD`
 
-## `STACK://ARSENAL`
+**Machines** — `PLC` `Ladder Logic` `ABB Robotics` `Point Cloud` `Serial Comms`
 
-**AI / DATA**  
-`Python` `LLM Apps` `RAG` `NLP` `Computer Vision` `Object Detection` `Model Deployment` `Data Science`
+## Say hello
 
-**SOFTWARE**  
-`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Express` `Django` `Tailwind` `Docker` `CI/CD`
-
-**ROBOTICS / AUTOMATION**  
-`PLC` `Ladder Logic` `ABB Robotics` `Point Cloud` `Embedded Workflows` `Serial Comms`
-
-## `LINK://CONTACT`
-
-- Portfolio → **[nine.codes](https://nine.codes)**
-- LinkedIn → **[natthanarong-tiangjit](https://www.linkedin.com/in/natthanarong-tiangjit)**
-- Email → **[natthanarong.tian@gmail.com](mailto:natthanarong.tian@gmail.com)**
-
----
+Good projects start with a simple message.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1220,40:0f1b2d,75:3B82F6,100:22D3EE" alt="footer" />
-</p>
-
-<p align="center">
-  <em>Mission Control · build useful tech with depth, speed, and creative engineering.</em>
+  <a href="https://nine.codes"><img src="https://img.shields.io/badge/nine.codes-FF2E4C?style=for-the-badge&labelColor=08070A" alt="Portfolio" /></a>
+  <a href="mailto:natthanarong.tian@gmail.com"><img src="https://img.shields.io/badge/natthanarong.tian@gmail.com-FF2E4C?style=for-the-badge&labelColor=08070A" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/natthanarong-tiangjit"><img src="https://img.shields.io/badge/LinkedIn-FF2E4C?style=for-the-badge&labelColor=08070A" alt="LinkedIn" /></a>
 </p>

@@ -1,0 +1,115 @@
+{
+  "total": 643,
+  "commits": 100,
+  "pull_requests": 6,
+  "repositories_started": 20,
+  "monthly": [
+    {
+      "month": "2025-08",
+      "value": 4
+    },
+    {
+      "month": "2025-09",
+      "value": 12
+    },
+    {
+      "month": "2025-10",
+      "value": 31
+    },
+    {
+      "month": "2025-11",
+      "value": 12
+    },
+    {
+      "month": "2025-12",
+      "value": 6
+    },
+    {
+      "month": "2026-01",
+      "value": 49
+    },
+    {
+      "month": "2026-02",
+      "value": 85
+    },
+    {
+      "month": "2026-03",
+      "value": 37
+    },
+    {
+      "month": "2026-04",
+      "value": 61
+    },
+    {
+      "month": "2026-05",
+      "value": 73
+    },
+    {
+      "month": "2026-06",
+      "value": 162
+    },
+    {
+      "month": "2026-07",
+      "value": 102
+    },
+    {
+      "month": "2026-08",
+      "value": 9
+    }
+  ],
+  "active_days": 140,
+  "peak_day": 30,
+  "longest_streak": 9,
+  "languages": [
+    [
+      "Python",
+      50
+    ],
+    [
+      "TypeScript",
+      38
+    ],
+    [
+      "Other",
+      5
+    ],
+    [
+      "JavaScript",
+      4
+    ],
+    [
+      "Jupyter Notebook",
+      2
+    ],
+    [
+      "CSS",
+      1
+    ]
+  ],
+  "repositories": [
+    {
+      "name": "nine.codes",
+      "commits": 19
+    },
+    {
+      "name": "NRAG",
+      "commits": 17
+    },
+    {
+      "name": "OneDegree",
+      "commits": 13
+    },
+    {
+      "name": "LadderX",
+      "commits": 13
+    },
+    {
+      "name": "Case-3-Media-Behavior",
+      "commits": 12
+    },
+    {
+      "name": "Orbit-Hackathon",
+      "commits": 7
+    }
+  ]
+}
