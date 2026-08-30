@@ -6,7 +6,7 @@
   "monthly": [
     {
       "month": "2025-08",
-      "value": 2
+      "value": 0
     },
     {
       "month": "2025-09",
@@ -57,7 +57,7 @@
       "value": 77
     }
   ],
-  "active_days": 155,
+  "active_days": 154,
   "peak_day": 30,
   "longest_streak": 10,
   "languages": [
