@@ -1,8 +1,8 @@
 {
-  "total": 735,
-  "commits": 116,
+  "total": 733,
+  "commits": 112,
   "pull_requests": 7,
-  "repositories_started": 21,
+  "repositories_started": 18,
   "monthly": [
     {
       "month": "2025-09",
@@ -54,10 +54,10 @@
     },
     {
       "month": "2026-09",
-      "value": 32
+      "value": 37
     }
   ],
-  "active_days": 162,
+  "active_days": 163,
   "peak_day": 30,
   "longest_streak": 10,
   "languages": [
@@ -67,19 +67,15 @@
     ],
     [
       "TypeScript",
-      41
-    ],
-    [
-      "JavaScript",
-      4
+      40
     ],
     [
       "Jupyter Notebook",
       2
     ],
     [
-      "CSS",
-      1
+      "JavaScript",
+      2
     ]
   ],
   "repositories": [
@@ -105,7 +101,7 @@
     },
     {
       "name": "functions-codes",
-      "commits": 9
+      "commits": 8
     }
   ]
 }
