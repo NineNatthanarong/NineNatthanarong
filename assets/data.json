@@ -1,8 +1,8 @@
 {
-  "total": 772,
-  "commits": 111,
+  "total": 773,
+  "commits": 98,
   "pull_requests": 7,
-  "repositories_started": 18,
+  "repositories_started": 17,
   "monthly": [
     {
       "month": "2025-09",
@@ -54,16 +54,16 @@
     },
     {
       "month": "2026-09",
-      "value": 77
+      "value": 78
     }
   ],
-  "active_days": 171,
+  "active_days": 172,
   "peak_day": 30,
   "longest_streak": 10,
   "languages": [
     [
       "Python",
-      68
+      55
     ],
     [
       "TypeScript",
@@ -88,10 +88,6 @@
       "commits": 19
     },
     {
-      "name": "OneDegree",
-      "commits": 13
-    },
-    {
       "name": "LadderX",
       "commits": 13
     },
@@ -102,6 +98,10 @@
     {
       "name": "functions-codes",
       "commits": 8
+    },
+    {
+      "name": "Orbit-Hackathon",
+      "commits": 7
     }
   ]
 }
