@@ -1,8 +1,8 @@
 {
-  "total": 891,
-  "commits": 100,
+  "total": 889,
+  "commits": 99,
   "pull_requests": 8,
-  "repositories_started": 17,
+  "repositories_started": 16,
   "monthly": [
     {
       "month": "2025-10",
@@ -54,10 +54,10 @@
     },
     {
       "month": "2026-10",
-      "value": 116
+      "value": 123
     }
   ],
-  "active_days": 183,
+  "active_days": 185,
   "peak_day": 30,
   "longest_streak": 19,
   "languages": [
@@ -72,10 +72,6 @@
     [
       "Jupyter Notebook",
       2
-    ],
-    [
-      "JavaScript",
-      1
     ]
   ],
   "repositories": [
