@@ -1,12 +1,12 @@
 {
-  "total": 1691,
+  "total": 1716,
   "commits": 99,
   "pull_requests": 8,
   "repositories_started": 13,
   "monthly": [
     {
       "month": "2025-11",
-      "value": 7
+      "value": 2
     },
     {
       "month": "2025-12",
@@ -54,10 +54,10 @@
     },
     {
       "month": "2026-11",
-      "value": 510
+      "value": 535
     }
   ],
-  "active_days": 200,
+  "active_days": 199,
   "peak_day": 127,
   "longest_streak": 19,
   "languages": [
